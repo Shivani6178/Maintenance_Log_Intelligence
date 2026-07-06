@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+langchain
+langchain-anthropic
+langchain-groq
+sentence-transformers
+FlagEmbedding
+rank-bm25
+psycopg2-binary
+pgvector
+sqlalchemy
+streamlit
+ragas
+python-dotenv
+boto3
+pytest
+pytest-asyncio

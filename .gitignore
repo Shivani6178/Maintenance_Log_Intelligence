@@ -1,0 +1,18 @@
+@"
+venv/
+.env
+.env.local
+*.pyc
+__pycache__/
+*.egg-info/
+.pytest_cache/
+.DS_Store
+*.log
+*.pkl
+*.h5
+models/
+dataset/raw/
+.streamlit/secrets.toml
+.vscode/
+.idea/
+@ | Out-File -FilePath ".gitignore" -Encoding UTF8
